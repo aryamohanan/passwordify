@@ -1,0 +1,11 @@
+{
+  "name": "passwordify",
+  "version": "1.0.0",
+  "description": "Generate basic, random passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya Mohanan",
+  "license": "MIT"
+}
